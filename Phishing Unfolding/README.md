@@ -1,6 +1,6 @@
 #Alert: A suspicious phishing email with a possible account compromise
 
-Severity: low
+Severity: medium
 
 Indicators:
 - Suspicious subject line(inheritance scam, fake offers)
